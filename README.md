@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=h4rmy" alt="Profile Views" /> </p>
+<p align="center">
+  <a href="http://discord.com">
+    <img src="https://discord.c99.nl/widget/theme-3/295791096133320708.png"/>
+  </a>
+</p>
 
-<!--
-**h4rmy/h4rmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on scamming people
+- 🌱 I’m currently learning how to make quality pastes
+- 🤔 I’m looking for help with dumb coding questions
+- 💬 Ask me about ghost clients
+- 📫 How to reach me: from 3.0 blocks preferably
+- 😄 Pronouns: ur/mom
+- ⚡ Fun fact: backdoors are fun
