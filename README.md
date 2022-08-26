@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h4rmy" alt="Profile Views" /> </p>
 <p align="center">
   <a href="http://discord.com">
-    <img src="https://discord.c99.nl/widget/theme-3/295791096133320708.png"/>
+    <img src="https://discord.c99.nl/widget/theme-1/295791096133320708.png"/>
   </a>
 </p>
 
